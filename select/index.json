@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "base_track": "リア",
+  "base_artist": "A4。",
+  "createdAt": "2026-03-18T06:06:46.901216Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リア/リモシンパサイザー",
+      "artist": "ときのそら",
+      "has_synced": true,
+      "path": "select/01_リア_リモシンパサイザー_ときのそら.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Words of GRACE~冬のダリア~",
+      "artist": "今井麻美",
+      "has_synced": false,
+      "path": "select/02_Words_of_GRACE~冬のダリア~_今井麻美.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "南サンドリア〔s〕",
+      "artist": "death's dynamic shroud",
+      "has_synced": false,
+      "path": "select/03_南サンドリア〔s〕_death's_dynamic_shroud.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "04_【リア（1○）】_CV藤村莉央",
+      "artist": "DEEP IMPACT",
+      "has_synced": true,
+      "path": "select/04_04_【リア(1○)】_CV藤村莉央_DEEP_IMPACT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リア feat. 可不",
+      "artist": "A4。",
+      "has_synced": false,
+      "path": "select/pl_01_リア_feat._可不_A4。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "リア",
+      "artist": "A4。",
+      "has_synced": false,
+      "path": "select/localdb_01_リア_A4。.txt",
+      "repo_name": "rOR3YuaS1yE"
+    }
+  ]
+}
